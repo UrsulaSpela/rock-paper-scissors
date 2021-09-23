@@ -39,6 +39,9 @@ button{
     border: none;
     border-radius: 5px;
 }
+button:hover{
+    opacity: .7;
+}
 #buttons{
     padding: 50px 0;
 }
